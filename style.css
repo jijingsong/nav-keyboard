@@ -13,9 +13,10 @@ main {
     align-items: center
 }
 .wrapper {
-    /* display: inline-block; */
     background-color: rgba(55,83,86,0.5);
-    padding: 12px 0;
+    padding: 12px 5px;
+    border-radius: 20px;
+    box-shadow: 0 2px 1px 3px rgba(31, 35, 36, 0.4)
 }
 .wrapper div:nth-child(2) {
     margin-left: 35px;
